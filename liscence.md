@@ -1,2 +1,0 @@
-# my Liscence file
-lorem
